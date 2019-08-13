@@ -1,0 +1,16 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bread"
+    },
+    
+    "overrides": [
+            {"predicate": {"custom_model_data":131005}, "model": "custom/edible/dough"},
+            {"predicate": {"custom_model_data":131007}, "model": "custom/edible/breadslices"},
+            {"predicate": {"custom_model_data":131008}, "model": "custom/edible/breadslice"},
+            {"predicate": {"custom_model_data":131011}, "model": "custom/edible/dough1"},
+            {"predicate": {"custom_model_data":131012}, "model": "custom/edible/piecrust"},
+            {"predicate": {"custom_model_data":131015}, "model": "custom/edible/pumpkin_pie_slices"},
+            {"predicate": {"custom_model_data":131016}, "model": "custom/edible/pumpkin_pie_slice"}
+        ]
+}

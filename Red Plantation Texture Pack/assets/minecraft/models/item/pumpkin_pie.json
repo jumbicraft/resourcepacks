@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/pumpkin_pie"
+    },
+    
+    "overrides": [
+            {"predicate": {"custom_model_data":131006}, "model": "custom/edible/breadloaf"},
+            {"predicate": {"custom_model_data":131009}, "model": "custom/edible/baconsandwich"},
+            {"predicate": {"custom_model_data":131010}, "model": "custom/easteregg/idiotsandwich"},
+            {"predicate": {"custom_model_data":131014}, "model": "custom/edible/pumpkin_pie"}
+        ]
+}

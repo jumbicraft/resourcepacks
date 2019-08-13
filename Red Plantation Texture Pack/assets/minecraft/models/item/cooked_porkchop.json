@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cooked_porkchop"
+    },
+    
+    "overrides": [
+            {"predicate": {"custom_model_data":131002}, "model": "custom/edible/cooked_bacon"},
+            {"predicate": {"custom_model_data":131003}, "model": "custom/edible/crispy_bacon"} 
+        ]
+}

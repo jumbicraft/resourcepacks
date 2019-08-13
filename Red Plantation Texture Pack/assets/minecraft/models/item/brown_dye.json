@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/brown_dye"
+    },
+    
+    "overrides": [
+            {"predicate": {"custom_model_data":120000}, "model": "custom/coffee/seed"},
+            {"predicate": {"custom_model_data":130002}, "model": "custom/baseitem/cocoa_fruit"},
+            {"predicate": {"custom_model_data":130003}, "model": "custom/baseitem/fermented_cocoa"},
+            {"predicate": {"custom_model_data":130004}, "model": "custom/baseitem/roasted_cocoa"}
+        ]
+}

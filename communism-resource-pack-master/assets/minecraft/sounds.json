@@ -1,0 +1,16 @@
+    {
+
+    "redguards": {"sounds": ["custom/redguards"]},
+
+    "chineseanthem": {"sounds": ["custom/chinaanthem"]},
+        
+    "xiaopingguo": {"sounds": ["custom/xiaopingguo"]},
+        
+    "littleapple": {"sounds": ["custom/xiaopingguo"]},
+
+    "respectwamen": {"sounds": ["custom/respectwamen"]},
+    
+    "revengedylan": {"sounds": ["custom/revengedl"]},
+    
+    "congrats": {"sounds": ["custom:congratulations"]}
+    }

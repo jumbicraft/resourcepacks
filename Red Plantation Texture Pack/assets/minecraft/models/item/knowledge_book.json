@@ -1,0 +1,16 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/knowledge_book"
+    },
+    
+    "overrides": [
+            {"predicate": {"custom_model_data":110000}, "model": "custom/plant/coffee/growth_0"},
+            {"predicate": {"custom_model_data":110001}, "model": "custom/plant/coffee/growth_1"},
+            {"predicate": {"custom_model_data":110002}, "model": "custom/plant/coffee/growth_2"},
+            {"predicate": {"custom_model_data":111000}, "model": "custom/plant/gossypium/growth_0"},
+            {"predicate": {"custom_model_data":111001}, "model": "custom/plant/gossypium/growth_1"},
+            {"predicate": {"custom_model_data":111002}, "model": "custom/plant/gossypium/growth_2"},
+            {"predicate": {"custom_model_data":111003}, "model": "custom/plant/gossypium/growth_3"}
+        ]
+}
